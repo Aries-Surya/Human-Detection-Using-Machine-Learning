@@ -9,4 +9,4 @@ metrics = model.val()  # evaluate model performance on the validation set
 # for result in results:
     # result.show()  # Display the predictions
 
-path = model.export(format="onnx")  # export the model to ONNX format
+# path = model.export(format="onnx")  # export the model to ONNX format
