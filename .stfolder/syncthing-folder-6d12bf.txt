@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: edw3c-zpvad
+created: 2025-02-06T14:21:00+05:30

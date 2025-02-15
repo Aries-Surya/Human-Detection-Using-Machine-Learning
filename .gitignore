@@ -6,3 +6,5 @@
 /yolov8n.pt
 /.ipynb_checkpoints
 model/ipynb_checkpoints
+.stignore
+/stfolder
