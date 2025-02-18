@@ -8,3 +8,4 @@
 model/ipynb_checkpoints
 .stignore
 /stfolder
+/model/yolo11x-obb.pt
