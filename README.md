@@ -29,5 +29,5 @@ keep your video in Src folder and the output will be in Output folder
 [text](https://drive.google.com/drive/folders/1lKAksEsObpm9LjY1MS9Ya8vi5K51cgdr?usp=drive_link)
 
 ## Contributors
-This project is made possible by the contributions of the following individuals:
-[![Contributors](https://contrib.rocks/image?repo=Aries-Surya/Human-Detection-Using-Machine-Learning)](https://github.com/Aries-Surya/Human-Detection-Using-Machine-Learning/graphs/contributors)
+This project exists thanks to all the people who [contribute](https://github.com/Aries-Surya/Best-to-Buy/graphs/contributors) and more.  
+[![Contributors](https://contrib.rocks/image?repo=Aries-Surya/Best-to-Buy)](https://github.com/Aries-Surya/Best-to-Buy/graphs/contributors)
